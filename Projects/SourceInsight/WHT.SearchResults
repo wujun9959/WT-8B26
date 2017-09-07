@@ -1,0 +1,5 @@
+---- MSDDISK_CONNECTION_EVENT Matches (4 in 2 files) ----
+K_storage.c (application\core\src):    osMessagePut ( StorageEvent, MSDDISK_CONNECTION_EVENT, 0);
+K_storage.c (application\core\src):      case MSDDISK_CONNECTION_EVENT:
+K_storage.c (application\core\src):    osMessagePut ( StorageEvent, MSDDISK_CONNECTION_EVENT, 0);
+K_storage.h (application\core\inc):  MSDDISK_CONNECTION_EVENT,     
